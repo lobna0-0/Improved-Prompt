@@ -122,6 +122,3 @@ Then open your browser at:
 * Smarter prompt generation logic
 
 ---
-
-لو تحبي، أقدر أعمل نسخة **مختصرة وجاهزة للبروجيكت README على GitHub** بحيث تبان بشكل مرتب جدًا وجاذب للـ recruiters.
-تحبي أعملها لك؟
