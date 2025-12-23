@@ -1,5 +1,3 @@
-تمام، ده نسخة محدثة من **README** مع إضافة خطوات تثبيت Angular و Node.js لو مش موجودين على الجهاز:
-
 ---
 
 # Prompt Improver – Full-Stack Hero Section
