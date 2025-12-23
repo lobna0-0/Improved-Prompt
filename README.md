@@ -59,14 +59,14 @@ The logic is intentionally simple, readable, and easy to extend.
 
 🚀 How to Run the Project
 Backend
-cd server
-npm install
-node app.js
+1-cd server
+2-npm install
+3-node app.js
 
 Frontend
-cd prompt-improved
-npm install
-ng serve
+1-cd prompt-improved
+2-npm install
+3-ng serve
 
 
 Then open your browser at:
@@ -75,7 +75,7 @@ http://localhost:4200
 
 🎥 Demo Video
 
-Loom Demo (max 5 minutes):
+Loom Demo :
 https://www.loom.com/share/77ec58a8c81843f486bee9dfb17277c0
 
 🔮 What I Would Improve With More Time
