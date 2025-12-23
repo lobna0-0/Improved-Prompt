@@ -1,0 +1,14 @@
+<section class="hero">
+    <h1>Turn your idea to a clear website prompt</h1>
+    <p>Describe your website idea and get a refined prompt instantly.</p>
+    <textarea
+    [(ngModel)] = "idea" 
+    placeholder="I want a website for ..."></textarea>
+
+    <button (click)="improvedIdea()">Improve my idea</button>
+    <div *ngIf="result" class="result">
+        <h3>Improved idea</h3>
+        <pre>{{ result }}</pre>
+        <button (click)="copy()">Copy prompt</button>
+    </div>
+</section>

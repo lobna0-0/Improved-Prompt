@@ -1,0 +1,43 @@
+# ========================
+# Node.js
+# ========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ========================
+# Angular
+# ========================
+.angular/
+dist/
+out-tsc/
+tmp/
+coverage/
+.vscode/
+.idea/
+
+# Angular cache
+.cache/
+
+# ========================
+# Environment files
+# ========================
+.env
+
+# ========================
+# OS files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Logs
+# ========================
+logs/
+*.log
+
+# ========================
+# Build outputs
+# ========================
+build/
