@@ -59,13 +59,19 @@ The logic is intentionally simple, readable, and easy to extend.
 
 🚀 How to Run the Project
 Backend
+
 1-cd server
+
 2-npm install
+
 3-node app.js
 
 Frontend
+
 1-cd prompt-improved
+
 2-npm install
+
 3-ng serve
 
 
